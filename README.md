@@ -1,2 +1,2 @@
 # python-data-assignments
-Assignment for COMM7080
+Rita's Assignment of COMM7080
