@@ -21,4 +21,4 @@ original works name - String.e.g Haikyuu!!
 
 **License**
 
-CC 4.0
+MIT License
