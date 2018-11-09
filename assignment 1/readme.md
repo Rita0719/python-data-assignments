@@ -17,7 +17,7 @@ original works name - String.e.g Haikyuu!!
 
 **Data Volume**
 
-55 row 3 column
+56 row 3 column
 
 **License**
 
