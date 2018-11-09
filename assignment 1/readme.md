@@ -24,6 +24,7 @@ original works name - String.e.g Haikyuu!!
 MIT License
 
 
-bonus part
+**bonus part**
+
 Simply give pointers to the database you are considering and briefly describe how they can be incorporated into the dataset you just scraped or how they can assist your articulation.
 As a subculture, fandom works are positively related to the exposure on social media of the original works but in the AO3 it also accumulated considerable works on many old series like Stak Trek.So i would like to import twitter data（https://github.com/awesomedata/awesome-public-datasets#socialnetworks） to find the relationship between the popularity of original and number of fanworks. There is a famours myth that a high popularity and fanworks complement each other. I want find if it is true.
