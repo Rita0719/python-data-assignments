@@ -24,6 +24,13 @@ original works name - String.e.g Haikyuu!!
 MIT License
 
 
+**reference**
+
+https://github.com/hupili/python-for-data-and-media-communication-gitbook/issues/67
+
+I used the following code bolck in this issue answer from @ChicoXYC.
+
+
 **bonus part**
 
 As a subculture, fandom works are positively related to the exposure on social media of the original works but in the AO3 it also accumulated considerable works on many old series like Stak Trek.So i would like to import twitter data（https://github.com/awesomedata/awesome-public-datasets#socialnetworks） to find the relationship between the popularity of original and number of fanworks. There is a famours myth that a high popularity and fanworks complement each other. I want find if it is true.
